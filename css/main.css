@@ -1,0 +1,21 @@
+body{
+    /* background-color: black; */
+    padding: 40px;
+}
+.calculadora ul{
+    display: flex;
+    list-style: none;
+}
+
+.calculadora ul li{
+    margin: 10px;
+}
+.resultado{}
+h1{
+    color: #084298;
+}
+.calculadora{
+    /* border: 5px solid #bb4d4d;
+    background-color: pink; */
+    padding: 20px;
+}
